@@ -1,1 +1,1 @@
-exportPattern("^[[:alpha:]]+")
+importFrom("utils", "read.delim")
