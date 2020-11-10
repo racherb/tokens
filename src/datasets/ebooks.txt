@@ -1,0 +1,175 @@
+id	source	name	author	url	lang	format	isdone
+1	Gutenberg	The Wishing Cap	Mary Martha Sherwood	http://www.gutenberg.org/cache/epub/63295/pg63295.txt	en	1	False
+2	Gutenberg	Pride and Prejudice	Jane Austen	http://www.gutenberg.org/files/1342/1342-0.txt	en	1	False
+3	Gutenberg	Beowulf	Lesslie Hall	http://www.gutenberg.org/cache/epub/16328/pg16328.txt	en	1	False
+4	Gutenberg	Alice’s Adventures in Wonderland	Lewis Carroll	http://www.gutenberg.org/files/11/11-0.txt	en	1	False
+5	Gutenberg	The Yellow Wallpaper	Charlotte Perkins Gilman	http://www.gutenberg.org/files/1952/1952-0.txt	en	1	False
+6	Gutenberg	Frankenstein	Mary Wollstonecraft (Godwin) Shelley	http://www.gutenberg.org/files/84/84-0.txt	en	1	False
+7	Gutenberg	Anthem	Ayn Rand	http://www.gutenberg.org/files/1250/1250-0.txt	en	1	False
+8	Gutenberg	Scarlet Letter	Nathaniel Hawthorne	http://www.gutenberg.org/files/25344/25344-0.txt	en	1	False
+9	Gutenberg	A Doll's House	Henrik Ibsen	http://www.gutenberg.org/cache/epub/2542/pg2542.txt	en	1	False
+10	Gutenberg	The Adventures of Sherlock Holmes	Arthur Conan Doyle	http://www.gutenberg.org/files/1661/1661-0.txt	en	1	False
+11	Gutenberg	Metamorphosis	Franz Kafka	http://www.gutenberg.org/cache/epub/5200/pg5200.txt	en	1	False
+12	Gutenberg	Tale of Two Cities	Charles Dickens	http://www.gutenberg.org/files/98/98-0.txt	en	1	False
+13	Gutenberg	Moby Dick, or The Whale	Herman Melville	http://www.gutenberg.org/files/2701/2701-0.txt	en	1	False
+14	Gutenberg	A Modest Proposal	Jonathan Swift	http://www.gutenberg.org/files/1080/1080-0.txt	en	1	False
+15	Gutenberg	The Strange Case Of Dr. Jekyll And Mr. Hyde	Robert Louis Stevenson	http://www.gutenberg.org/files/43/43-0.txt	en	1	False
+16	Gutenberg	Walden and On The Duty Of Civil Disobedience	Henry David Thoreau	http://www.gutenberg.org/files/205/205-0.txt	en	1	False
+17	Gutenberg	The Republic	Plato	http://www.gutenberg.org/cache/epub/1497/pg1497.txt	en	1	False
+18	Gutenberg	The Souls of Black Folk	W. E. B. Du Bois	http://www.gutenberg.org/files/408/408-0.txt	en	1	False
+19	Gutenberg	The Narrative of the Life of Frederick Douglass	Frederick Douglass	http://www.gutenberg.org/cache/epub/23/pg23.txt	en	1	False
+20	Gutenberg	The Prince	Nicolo Machiavelli	http://www.gutenberg.org/cache/epub/1232/pg1232.txt	en	1	False
+21	Gutenberg	Dracula	Bram Stoker	http://www.gutenberg.org/cache/epub/345/pg345.txt	en	1	False
+22	Gutenberg	The Adventures of Tom Sawyer	Mark Twain (Samuel Clemens)	http://www.gutenberg.org/files/74/74-0.txt	en	1	False
+23	Gutenberg	Grimms’ Fairy Tales	The Brothers Grimm	http://www.gutenberg.org/files/2591/2591-0.txt	en	1	False
+24	Gutenberg	Jane Eyre	Charlotte Bronte	http://www.gutenberg.org/cache/epub/1260/pg1260.txt	en	1	False
+25	Gutenberg	Adventures of Huckleberry Finn	Mark Twain (Samuel Clemens)	http://www.gutenberg.org/files/76/76-0.txt	en	1	False
+26	Gutenberg	A Christmas Carol	Charles Dickens	http://www.gutenberg.org/files/46/46-0.txt	en	1	False
+27	Gutenberg	The Iliad	Homer	http://www.gutenberg.org/files/6130/6130-0.txt	en	1	False
+28	Gutenberg	The Importance of Being Earnest	Oscar Wilde	http://www.gutenberg.org/cache/epub/844/pg844.txt	en	1	False
+29	Gutenberg	Treasure Island	Robert Louis Stevenson	http://www.gutenberg.org/files/120/120-0.txt	en	1	False
+30	Gutenberg	The Awakening and Selected Short Stories	Kate Chopin	http://www.gutenberg.org/files/160/160-0.txt	en	1	False
+31	Gutenberg	Heart of Darkness	Joseph Conrad	http://www.gutenberg.org/files/219/219-0.txt	en	1	False
+32	Gutenberg	Peter Pan	James M. Barrie	http://www.gutenberg.org/files/16/16-0.txt	en	1	False
+33	Gutenberg	The Picture of Dorian Gray	Oscar Wilde	http://www.gutenberg.org/cache/epub/174/pg174.txt	en	1	False
+34	Gutenberg	Captivity and Restoration	Mrs. Mary Rowlandson	http://www.gutenberg.org/cache/epub/851/pg851.txt	en	1	False
+35	Gutenberg	Great Expectations	Charles Dickens	http://www.gutenberg.org/files/1400/1400-0.txt	en	1	False
+36	Gutenberg	Little Women	Louisa May Alcott	http://www.gutenberg.org/cache/epub/514/pg514.txt	en	1	False
+37	Gutenberg	The Happy Prince	Oscar Wilde	http://www.gutenberg.org/files/902/902-0.txt	en	1	False
+38	Gutenberg	The Secret Garden	Frances Hodgson Burnett	http://www.gutenberg.org/files/113/113-0.txt	en	1	False
+39	Gutenberg	Siddhartha	Herman Hesse	http://www.gutenberg.org/cache/epub/2500/pg2500.txt	en	1	False
+40	Gutenberg	Dubliners	James Joyce	http://www.gutenberg.org/files/2814/2814-0.txt	en	1	False
+41	Gutenberg	The Slang Dictionary	John Camden Hotten	http://www.gutenberg.org/files/42108/42108-0.txt	en	1	False
+42	Gutenberg	Leviathan	Thomas Hobbes	http://www.gutenberg.org/cache/epub/3207/pg3207.txt	en	1	False
+43	Gutenberg	The Interesting Narrative of the Life of Olaudah Equiano Or Gustavus Vassa The African	Olaudah Equiano	http://www.gutenberg.org/cache/epub/15399/pg15399.txt	en	1	False
+44	Gutenberg	The Count of Monte Cristo	Alexandre Dumas	http://www.gutenberg.org/files/1184/1184-0.txt	en	1	False
+45	Gutenberg	The Prophet	Kahlil Gibran	http://www.gutenberg.org/files/58585/58585-0.txt	en	1	False
+46	Gutenberg	The Call of the Wild	Jack London	http://www.gutenberg.org/files/215/215-0.txt	en	1	False
+47	Gutenberg	War and Peace	Leo Tolstoy	http://www.gutenberg.org/files/2600/2600-0.txt	en	1	False
+48	Gutenberg	The Hound of the Baskervilles	Arthur Conan Doyle	http://www.gutenberg.org/files/2852/2852-0.txt	en	1	False
+49	Gutenberg	Second Treatise of Government	John Locke	http://www.gutenberg.org/cache/epub/7370/pg7370.txt	en	1	False
+50	Gutenberg	Uncle Tom’s Cabin	Harriet Beecher Stowe	http://www.gutenberg.org/files/203/203-0.txt	en	1	False
+51	Gutenberg	Autobiography of Benjamin Franklin	Benjamin Franklin	http://www.gutenberg.org/cache/epub/20203/pg20203.txt	en	1	False
+52	Gutenberg	Emma	Jane Austen	http://www.gutenberg.org/files/158/158-0.txt	en	1	False
+53	Gutenberg	Anne of Green Gables	Lucy Maud Montgomery	http://www.gutenberg.org/files/45/45-0.txt	en	1	False
+54	Gutenberg	The Odyssey	Homer	http://www.gutenberg.org/files/1727/1727-0.txt	en	1	False
+55	Gutenberg	The Legend of Sleepy Hollow	Washington Irving	http://www.gutenberg.org/files/41/41-0.txt	en	1	False
+56	Gutenberg	Ulysses	James Joyce	http://www.gutenberg.org/files/4300/4300-0.txt	en	1	False
+57	Gutenberg	The Wonderful Wizard of Oz	L. Frank Baum	http://www.gutenberg.org/cache/epub/55/pg55.txt	en	1	False
+58	Gutenberg	Wuthering Heights	Emily Brontë	http://www.gutenberg.org/files/768/768-0.txt	en	1	False
+59	Gutenberg	The War of the Worlds	H. G. Wells	http://www.gutenberg.org/files/36/36-0.txt	en	1	False
+60	Gutenberg	The Jungle	Upton Sinclair	http://www.gutenberg.org/files/140/140-0.txt	en	1	False
+61	Gutenberg	A Study In Scarlet	Arthur Conan Doyle	http://www.gutenberg.org/files/244/244-0.txt	en	1	False
+62	Gutenberg	The Philippine Islands 1493-1898 Volume XXXIII	Antonio Pigafetta	http://www.gutenberg.org/files/42884/42884-0.txt	en	1	False
+63	Gutenberg	The Philippine Islands 1493-1898 V7 1588-1591	Emma Helen Blair	http://www.gutenberg.org/cache/epub/13701/pg13701.txt	en	1	False
+64	Gutenberg	A History of the Philippines	David P. Barrows	http://www.gutenberg.org/cache/epub/38269/pg38269.txt	en	1	False
+65	Gutenberg	The History of Don Quixote	Miguel de Cervantes Saavedra	http://www.gutenberg.org/files/996/996-0.txt	en	1	False
+66	Gutenberg	The Autobiography of Benjamin Franklin	Charles Eliot	http://www.gutenberg.org/cache/epub/148/pg148.txt	en	1	False
+67	Gutenberg	The Kama Sutra of Vatsyayana	Vatsyayana	http://www.gutenberg.org/cache/epub/27827/pg27827.txt	en	1	False
+68	Gutenberg	Incidents in the Life of a Slave Girl	Harriet Jacobs (AKA Linda Brent)	http://www.gutenberg.org/cache/epub/11030/pg11030.txt	en	1	False
+69	Gutenberg	A Journal of the Plague Year	Daniel Defoe	http://www.gutenberg.org/files/376/376-0.txt	en	1	False
+70	Gutenberg	Common Sense	Thomas Paine	http://www.gutenberg.org/cache/epub/147/pg147.txt	en	1	False
+71	Gutenberg	The Brothers Karamazov	Fyodor Dostoyevsky	http://www.gutenberg.org/files/28054/28054-0.txt	en	1	False
+72	Gutenberg	Pygmalion	George Bernard Shaw	http://www.gutenberg.org/cache/epub/3825/pg3825.txt	en	1	False
+73	Gutenberg	The Masque of the Red Death	Edgar Allan Poe	http://www.gutenberg.org/cache/epub/1064/pg1064.txt	en	1	False
+74	Gutenberg	Crime and Punishment	Fyodor Dostoevsky	http://www.gutenberg.org/files/2554/2554-0.txt	en	1	False
+75	Gutenberg	The Problems of Philosophy	Bertrand Russell	http://www.gutenberg.org/cache/epub/5827/pg5827.txt	en	1	False
+76	Gutenberg	The Jungle Book	Rudyard Kipling	http://www.gutenberg.org/files/236/236-0.txt	en	1	False
+77	Gutenberg	Candide	Voltaire	http://www.gutenberg.org/cache/epub/19942/pg19942.txt	en	1	False
+78	Gutenberg	The Confessions of Saint Augustine	Saint Augustine	http://www.gutenberg.org/cache/epub/3296/pg3296.txt	en	1	False
+79	Gutenberg	Les Misérables	Victor Hugo	http://www.gutenberg.org/files/135/135-0.txt	en	1	False
+80	Gutenberg	A Dictionary of Cebuano Visayan	John U. Wolf	http://www.gutenberg.org/files/40074/40074-0.txt	en	1	False
+81	Gutenberg	The Essays of Montaigne	Michel de Montaigne	http://www.gutenberg.org/files/3600/3600-0.txt	en	1	False
+82	Gutenberg	The Turn of the Screw	Henry James	http://www.gutenberg.org/files/209/209-0.txt	en	1	False
+83	Gutenberg	David Copperfield	Charles Dickens	http://www.gutenberg.org/files/766/766-0.txt	en	1	False
+84	Gutenberg	Beyond Good and Evil	Friedrich Nietzsche	http://www.gutenberg.org/cache/epub/4363/pg4363.txt	en	1	False
+85	Gutenberg	Thus Spake Zarathustra	Friedrich Nietzsche	http://www.gutenberg.org/files/1998/1998-0.txt	en	1	False
+86	Gutenberg	Poetics	Aristotle	http://www.gutenberg.org/cache/epub/1974/pg1974.txt	en	1	False
+87	Gutenberg	The Mysterious Affair at Styles	Agatha Christie	http://www.gutenberg.org/files/863/863-0.txt	en	1	False
+88	Gutenberg	The Time Machine	H. G. Wells	http://www.gutenberg.org/files/35/35-0.txt	en	1	False
+89	Gutenberg	Oliver Twist	Charles Dickens	http://www.gutenberg.org/cache/epub/730/pg730.txt	en	1	False
+90	Gutenberg	Ethan Frome	Edith Wharton	http://www.gutenberg.org/files/4517/4517-0.txt	en	1	False
+91	Gutenberg	Anna Karenina	Leo Tolstoy	http://www.gutenberg.org/files/1399/1399-0.txt	en	1	False
+92	Gutenberg	The Elements of Style	William Strunk	http://www.gutenberg.org/cache/epub/37134/pg37134.txt	en	1	False
+93	Gutenberg	Divine Comedy	Dante Alighieri	http://www.gutenberg.org/cache/epub/1001/pg1001.txt	en	1	False
+94	Gutenberg	The Works of Edgar Allan Poe. Vol 2	Edgar Allan Poe	http://www.gutenberg.org/files/2148/2148-0.txt	en	1	False
+95	Gutenberg	The Life and Adventures of Robinson Crusoe	Daniel Defoe	http://www.gutenberg.org/files/521/521-0.txt	en	1	False
+96	Gutenberg	Three Men in a Boat	Jerome K. Jerome	http://www.gutenberg.org/files/308/308-0.txt	en	1	False
+97	Gutenberg	Maupassant Original Short Stories	Guy de Maupassant	http://www.gutenberg.org/files/3090/3090-0.txt	en	1	False
+98	Gutenberg	The Cask of Amontillado	Edgar Allan Poe	http://www.gutenberg.org/cache/epub/1063/pg1063.txt	en	1	False
+99	Gutenberg	The Romance of Lust	Anonymous	http://www.gutenberg.org/files/30254/30254-0.txt	en	1	False
+100	Gutenberg	Songs of Innocence and Songs of Experience	William Blake	http://www.gutenberg.org/files/1934/1934-0.txt	en	1	False
+101	Gutenberg	Chaucer's Works. Volume 4	Geoffrey Chaucer	http://www.gutenberg.org/cache/epub/22120/pg22120.txt	en	1	False
+102	Gutenberg	The Devil's Dictionary	Ambrose Bierce	http://www.gutenberg.org/cache/epub/972/pg972.txt	en	1	False
+103	Gutenberg	The History Of The Decline And Fall Of The Roman Empire	Edward Gibbon	http://www.gutenberg.org/files/25717/25717-0.txt	en	1	False
+104	Gutenberg	The Republic of Plato	Plato	http://www.gutenberg.org/cache/epub/55201/pg55201.txt	en	1	False
+105	Gutenberg	Through the Looking-Glass	Charles Dodgson	http://www.gutenberg.org/files/12/12-0.txt	en	1	False
+106	Gutenberg	The Communist Manifesto	Karl Marx and Friedrich Engels	http://www.gutenberg.org/cache/epub/61/pg61.txt	en	1	False
+107	Gutenberg	Hard Times	Charles Dickens	http://www.gutenberg.org/files/786/786-0.txt	en	1	False
+108	Gutenberg	On Liberty	John Stuart Mill	http://www.gutenberg.org/cache/epub/34901/pg34901.txt	en	1	False
+109	Gutenberg	Gulliver’s Travels	Jonathan Swift	http://www.gutenberg.org/files/829/829-0.txt	en	1	False
+110	Gutenberg	Southern Horrors	Ida B. Wells-Barnett	http://www.gutenberg.org/cache/epub/14975/pg14975.txt	en	1	False
+111	Gutenberg	On the Origin of Species	Charles Darwin	http://www.gutenberg.org/cache/epub/1228/pg1228.txt	en	1	False
+112	Gutenberg	The Complete Works of William Shakespeare	William Shakespeare	http://www.gutenberg.org/files/100/100-0.txt	en	1	False
+113	Gutenberg	The Invisible Man	H. G. Wells	http://www.gutenberg.org/cache/epub/5230/pg5230.txt	en	1	False
+114	Gutenberg	Lysistrata	Aristophanes	http://www.gutenberg.org/cache/epub/7700/pg7700.txt	en	1	False
+115	Gutenberg	Essays	Ralph Waldo Emerson	http://www.gutenberg.org/cache/epub/16643/pg16643.txt	en	1	False
+116	Gutenberg	Carmilla	J. Sheridan LeFanu	http://www.gutenberg.org/cache/epub/10007/pg10007.txt	en	1	False
+117	Gutenberg	An Occurrence at Owl Creek	Ambrose Bierce	http://www.gutenberg.org/cache/epub/375/pg375.txt	en	1	False
+118	Gutenberg	Meditations	Marcus Aurelius	http://www.gutenberg.org/cache/epub/2680/pg2680.txt	en	1	False
+119	Gutenberg	A Pickle For The Knowing Ones	Lord Timothy Dexter	http://www.gutenberg.org/cache/epub/43453/pg43453.txt	en	1	False
+120	Gutenberg	Democracy In America. Volume 1	Alexis de Toqueville	http://www.gutenberg.org/cache/epub/815/pg815.txt	en	1	False
+121	Gutenberg	The Tale of Peter Rabbit	Beatrix Potter	http://www.gutenberg.org/cache/epub/14838/pg14838.txt	en	1	False
+122	Gutenberg	Leaves of Grass	Walt Whitman	http://www.gutenberg.org/files/1322/1322-0.txt	en	1	False
+123	Gutenberg	Plays	Susan Glaspell	http://www.gutenberg.org/cache/epub/10623/pg10623.txt	en	1	False
+124	Gutenberg	2 B R 0 2 B	Kurt Vonnegut	http://www.gutenberg.org/cache/epub/21279/pg21279.txt	en	1	False
+125	Gutenberg	The History of the Peloponnesian War	Thucydides	http://www.gutenberg.org/cache/epub/7142/pg7142.txt	en	1	False
+126	Gutenberg	The King James Bible		http://www.gutenberg.org/cache/epub/10/pg10.txt	en	1	False
+127	Gutenberg	How the Other Half Lives	Jacob A. Riis	http://www.gutenberg.org/cache/epub/45502/pg45502.txt	en	1	False
+128	Gutenberg	The Philippines A Century Hence	Jose Rizal	http://www.gutenberg.org/cache/epub/35899/pg35899.txt	en	1	False
+129	Gutenberg	The Sign of the Four	Arthur Conan Doyle	http://www.gutenberg.org/files/2097/2097-0.txt	en	1	False
+130	Gutenberg	The Tragical History of Dr. Faustus	Christoper Marlowe	http://www.gutenberg.org/cache/epub/779/pg779.txt	en	1	False
+131	Gutenberg	Le Morte D’Arthur. Volume I	Thomas Malory	http://www.gutenberg.org/files/1251/1251-0.txt	en	1	False
+132	Gutenberg	Don Juan	Lord Byron	http://www.gutenberg.org/cache/epub/21700/pg21700.txt	en	1	False
+133	Gutenberg	Mosses from an Old Manse and Other Stories	Nathaniel Hawthorne	http://www.gutenberg.org/cache/epub/512/pg512.txt	en	1	False
+134	Gutenberg	Madame Bovary	Gustave Flaubert	http://www.gutenberg.org/files/2413/2413-0.txt	en	1	False
+135	Gutenberg	Rizal's own story of his life	Jose Rizal	http://www.gutenberg.org/cache/epub/48438/pg48438.txt	en	1	False
+136	Gutenberg	Persuasion	Jane Austen	http://www.gutenberg.org/cache/epub/105/pg105.txt	en	1	False
+137	Gutenberg	Utopia	Thomas More	http://www.gutenberg.org/cache/epub/2130/pg2130.txt	en	1	False
+138	Gutenberg	Oedipus King of Thebes	Sophocles	http://www.gutenberg.org/cache/epub/27673/pg27673.txt	en	1	False
+139	Gutenberg	Up From Slavery: An Autobiography	Booker T. Washington	http://www.gutenberg.org/cache/epub/2376/pg2376.txt	en	1	False
+140	Gutenberg	The Decameron of Giovanni Boccaccio	Giovanni Boccaccio	http://www.gutenberg.org/cache/epub/23700/pg23700.txt	en	1	False
+141	Gutenberg	An Inquiry into the Nature and Causes of the Wealth of Nations	Adam Smith	http://www.gutenberg.org/files/3300/3300-0.txt	en	1	False
+142	Gutenberg	English Literature	William J. Long	http://www.gutenberg.org/cache/epub/10609/pg10609.txt	en	1	False
+143	Gutenberg	Apology	Plato	http://www.gutenberg.org/cache/epub/1656/pg1656.txt	en	1	False
+144	Gutenberg	White Fang	Jack London	http://www.gutenberg.org/cache/epub/910/pg910.txt	en	1	False
+145	Gutenberg	The American Occupation of the Philippines 1898-1912	James H. Blount	http://www.gutenberg.org/cache/epub/36542/pg36542.txt	en	1	False
+146	Gutenberg	The Nursery Rhymes of England	Various	http://www.gutenberg.org/cache/epub/32415/pg32415.txt	en	1	False
+147	Gutenberg	The Federalist Papers	Alexander Hamilton. John Jay and James Madison	http://www.gutenberg.org/cache/epub/1404/pg1404.txt	en	1	False
+148	Gutenberg	Twelve Years a Slave	Solomon Northup	http://www.gutenberg.org/cache/epub/45631/pg45631.txt	en	1	False
+149	Gutenberg	Notes from the Underground	Feodor Dostoevsky	http://www.gutenberg.org/cache/epub/600/pg600.txt	en	1	False
+150	Gutenberg	Middlemarch	George Eliot	http://www.gutenberg.org/files/145/145-0.txt	en	1	False
+151	Gutenberg	Bleak House	Charles Dickens	http://www.gutenberg.org/cache/epub/1023/pg1023.txt	en	1	False
+152	Gutenberg	Mansfield Park	Jane Austen	http://www.gutenberg.org/files/141/141-0.txt	en	1	False
+153	Gutenberg	The Sorrows of Young Werther	J.W. von Goethe	http://www.gutenberg.org/cache/epub/2527/pg2527.txt	en	1	False
+154	Gutenberg	Myths and Legends of Ancient Greece and Rome	E.M. Berens	http://www.gutenberg.org/cache/epub/22381/pg22381.txt	en	1	False
+155	Gutenberg	The Antiquities of the Jews	Flavius Josephus	http://www.gutenberg.org/cache/epub/2848/pg2848.txt	en	1	False
+156	Gutenberg	The Castle of Otranto	Horace Walpole	http://www.gutenberg.org/files/696/696-0.txt	en	1	False
+157	Gutenberg	The Thousand and One Nights. Vol. I.	Anonymous	http://www.gutenberg.org/files/34206/34206-0.txt	en	1	False
+158	Gutenberg	Pascal's Pensées	Blaise Pascal	http://www.gutenberg.org/files/18269/18269-0.txt	en	1	False
+159	Gutenberg	Stories of the Ships	Lewis R. Freeman	http://www.gutenberg.org/cache/epub/42604/pg42604.txt	en	1	False
+160	Gutenberg	A Treatise of Human Nature	David Hume	http://www.gutenberg.org/cache/epub/4705/pg4705.txt	en	1	False
+161	Gutenberg	The Rape of the Lock and Other Poems	Alexander Pope	http://www.gutenberg.org/cache/epub/9800/pg9800.txt	en	1	False
+162	Gutenberg	The Prince and The Pauper	Mark Twain (Samuel Clemens)	http://www.gutenberg.org/files/1837/1837-0.txt	en	1	False
+163	Gutenberg	The Moonstone	Wilkie Collins	http://www.gutenberg.org/files/155/155-0.txt	en	1	False
+164	Gutenberg	Hamlet	William Shakespeare	http://www.gutenberg.org/files/1524/1524-0.txt	en	1	False
+165	Gutenberg	The Age of Innocence	Edith Wharton	http://www.gutenberg.org/cache/epub/541/pg541.txt	en	1	False
+166	Gutenberg	Selected Sermons of Jonathan Edwards	Jonathan Edwards	http://www.gutenberg.org/cache/epub/34632/pg34632.txt	en	1	False
+167	Gutenberg	As a Man Thinketh	James Allen	http://www.gutenberg.org/cache/epub/4507/pg4507.txt	en	1	False
+168	Gutenberg	Poirot Investigates	Agatha Christie	http://www.gutenberg.org/files/61262/61262-0.txt	en	1	False
+169	Gutenberg	Paradise Lost	John Milton	http://www.gutenberg.org/files/20/20-0.txt	en	1	False
+170	Gutenberg	Lyrical Ballads 1798	William Wordsworth and Samuel Taylor Coleridge	http://www.gutenberg.org/cache/epub/9622/pg9622.txt	en	1	False
+171	Gutenberg	On War	Carl von Clausewitz	http://www.gutenberg.org/files/1946/1946-0.txt	en	1	False
+172	Gutenberg	The Island of Doctor Moreau	H. G. Wells	http://www.gutenberg.org/cache/epub/159/pg159.txt	en	1	False
+173	Gutenberg	The Art of War	Sun Tzu	http://www.gutenberg.org/files/132/132-0.txt	en	1	False
+174	Gutenberg	The Fall of the House of Usher	Edgar Allan Poe	http://www.gutenberg.org/cache/epub/932/pg932.txt	en	1	False
