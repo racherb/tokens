@@ -8,11 +8,11 @@ RUN pip install nltk==3.5
 RUN pip install nevergrad==0.4.2
 RUN apt-get update
 RUN apt-get upgrade
-RUN DEBIAN_FRONTEND=noninteractive apt-get -yq install apt-utils
-RUN DEBIAN_FRONTEND=noninteractive apt-get -yq install sqlite3
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install --no-install-recommends apt-utils
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install --no-install-recommends sqlite3
 RUN mkdir -p /usr/share/man/man1
-RUN DEBIAN_FRONTEND=noninteractive apt-get -yq install default-jdk
-RUN DEBIAN_FRONTEND=noninteractive apt-get -yq install scala
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install --no-install-recommends default-jdk
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install --no-install-recommends scala
 RUN wget -q --trust-server-names https://ftp.yz.yamagata-u.ac.jp/pub/network/apache/spark/spark-3.0.1/spark-3.0.1-bin-hadoop3.2.tgz -O /home/jovyan/spark-3.0.1-bin-hadoop3.2.tgz
 RUN cd /home/jovyan/ || exit
 RUN tar xvfz spark-3.0.1-bin-hadoop3.2.tgz
